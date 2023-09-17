@@ -2,8 +2,8 @@
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+This is a initial code repository for the corresponding project.
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
+Along with full project, using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
 
 
